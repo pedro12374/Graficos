@@ -1,0 +1,1762 @@
+
+
+*******************************************************************************
+Mon Oct 24 16:38:08 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Mon Oct 24 16:38:16 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.6003554629e+00   0.00e+00  1.62e-01    1.000000e+00   1.000000e+00
+  11 7.3591787174e-04  -1.53e-04  1.62e-06    3.808350e+00   5.322137e-01
+
+After 11 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : -1.52649e-09
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80835          +/- 0.3319       (8.715%)
+b               = 0.532214         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 16:39:42 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        x range restricted to [0.0120000 : 0.0500000]
+BREAK: No data to fit
+
+*******************************************************************************
+Mon Oct 24 16:40:18 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        x range restricted to [0.0500000 : 0.120000]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.3591787174e-04   0.00e+00  1.20e+00    3.808350e+00   5.322137e-01
+   1 7.3591787174e-04  -7.22e-10  1.20e+01    3.808350e+00   5.322137e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : -7.219e-15
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80835          +/- 0.3319       (8.715%)
+b               = 0.532214         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 16:41:02 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        x range restricted to [0.0500000 : 0.120000]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.3591787174e-04   0.00e+00  1.20e+00    3.808350e+00   5.322137e-01
+   1 7.3591787174e-04   0.00e+00  1.20e+03    3.808350e+00   5.322137e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80835          +/- 0.3319       (8.715%)
+b               = 0.532214         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 16:49:06 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        x range restricted to [0.0500000 : 0.120000]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.3591787174e-04   0.00e+00  1.20e+00    3.808350e+00   5.322137e-01
+   1 7.3591787174e-04   0.00e+00  1.20e+03    3.808350e+00   5.322137e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80835          +/- 0.3319       (8.715%)
+b               = 0.532214         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 17:30:50 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        x range restricted to [0.0500000 : 0.120000]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.3591787174e-04   0.00e+00  1.20e+00    3.808350e+00   5.322137e-01
+   1 7.3591787174e-04   0.00e+00  1.20e+03    3.808350e+00   5.322137e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80835          +/- 0.3319       (8.715%)
+b               = 0.532214         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:18:16 2016
+
+
+FIT:    data read from 'Massa-Mola(TxK).dat'
+        format = z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 2.8812547809e+02   0.00e+00  1.09e+01    3.808350e+00   5.322137e-01
+   7 1.6163061201e-03  -1.24e-01  1.09e-06    1.563351e+00  -5.013799e-01
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00161631
+rel. change during last iteration : -1.24042e-06
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0402033
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00161631
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.56335          +/- 0.1895       (12.12%)
+b               = -0.50138         +/- 0.07525      (15.01%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.960  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:26:05 2016
+
+
+FIT:    data read from 'Massa-Mola(TxK).dat'
+        format = z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.6163061201e-03   0.00e+00  6.19e-01    1.563351e+00  -5.013799e-01
+   1 1.6163061201e-03  -1.07e-10  6.19e+03    1.563351e+00  -5.013799e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.00161631
+rel. change during last iteration : -1.07326e-15
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0402033
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00161631
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.56335          +/- 0.1895       (12.12%)
+b               = -0.50138         +/- 0.07525      (15.01%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.960  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:26:08 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        x range restricted to [0.0500000 : 0.120000]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 8.2631521248e+01   0.00e+00  6.39e+00    1.563351e+00  -5.013799e-01
+   8 7.3591786976e-04  -7.81e-05  6.39e-02    3.808332e+00   5.322118e-01
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : -7.80529e-10
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80833          +/- 0.3319       (8.715%)
+b               = 0.532212         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:28:44 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        x range restricted to [0.0500000 : 0.120000]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.3591786976e-04   0.00e+00  1.20e+00    3.808332e+00   5.322118e-01
+   1 7.3591786976e-04  -1.79e-07  1.20e+00    3.808332e+00   5.322118e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : -1.78678e-12
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80833          +/- 0.3319       (8.715%)
+b               = 0.532212         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:33:20 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        x range restricted to [0.0500000 : 0.120000]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.3591786976e-04   0.00e+00  1.20e+00    3.808332e+00   5.322118e-01
+   1 7.3591786976e-04  -1.57e-07  1.20e+00    3.808332e+00   5.322118e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : -1.57463e-12
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80833          +/- 0.3319       (8.715%)
+b               = 0.532212         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:39:28 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.3591786976e-04   0.00e+00  1.20e+00    3.808332e+00   5.322118e-01
+   1 7.3591786975e-04  -1.39e-07  1.20e+00    3.808332e+00   5.322118e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : -1.39341e-12
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80833          +/- 0.3319       (8.715%)
+b               = 0.532212         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:39:28 2016
+
+
+FIT:    data read from 'Massa-Mola(TxK).dat'
+        format = z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = c*x**d
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   c             d            
+   0 1.3293419400e+02   0.00e+00  1.21e+01    1.000000e+00   1.000000e+00
+   8 1.6163061155e-03  -1.38e-06  1.21e+00    1.563362e+00  -5.013848e-01
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00161631
+rel. change during last iteration : -1.37939e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0402033
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00161631
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+c               = 1.56336          +/- 0.1896       (12.12%)
+d               = -0.501385        +/- 0.07525      (15.01%)
+
+correlation matrix of the fit parameters:
+                c      d      
+c               1.000 
+d              -0.960  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:39:48 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.3591786975e-04   0.00e+00  1.20e+00    3.808332e+00   5.322118e-01
+   1 7.3591786975e-04  -1.23e-07  1.20e+00    3.808332e+00   5.322118e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : -1.23165e-12
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80833          +/- 0.3319       (8.715%)
+b               = 0.532212         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:39:48 2016
+
+
+FIT:    data read from 'Massa-Mola(TxK).dat'
+        format = z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = c*x**d
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   c             d            
+   0 1.6163061155e-03   0.00e+00  6.19e-01    1.563362e+00  -5.013848e-01
+   1 1.6163061153e-03  -1.10e-05  6.19e-02    1.563361e+00  -5.013840e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.00161631
+rel. change during last iteration : -1.10022e-10
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0402033
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00161631
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+c               = 1.56336          +/- 0.1895       (12.12%)
+d               = -0.501384        +/- 0.07525      (15.01%)
+
+correlation matrix of the fit parameters:
+                c      d      
+c               1.000 
+d              -0.960  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:41:23 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.3591786975e-04   0.00e+00  1.20e+00    3.808332e+00   5.322118e-01
+   1 7.3591786975e-04  -1.09e-07  1.20e+00    3.808332e+00   5.322118e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : -1.09007e-12
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80833          +/- 0.3319       (8.715%)
+b               = 0.532212         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:41:23 2016
+
+
+FIT:    data read from 'Massa-Mola(TxK).dat'
+        format = z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = c*x**d
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   c             d            
+   0 1.6163061153e-03   0.00e+00  6.19e-01    1.563361e+00  -5.013840e-01
+   1 1.6163061153e-03  -6.17e-10  6.19e+01    1.563361e+00  -5.013840e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.00161631
+rel. change during last iteration : -6.17127e-15
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0402033
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00161631
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+c               = 1.56336          +/- 0.1895       (12.12%)
+d               = -0.501384        +/- 0.07525      (15.01%)
+
+correlation matrix of the fit parameters:
+                c      d      
+c               1.000 
+d              -0.960  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:42:08 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.3591786975e-04   0.00e+00  1.20e+00    3.808332e+00   5.322118e-01
+   1 7.3591786975e-04  -9.56e-08  1.20e+00    3.808332e+00   5.322118e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : -9.56149e-13
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80833          +/- 0.3319       (8.715%)
+b               = 0.532212         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:42:08 2016
+
+
+FIT:    data read from 'Massa-Mola(TxK).dat'
+        format = z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = c*x**d
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   c             d            
+   0 1.6163061153e-03   0.00e+00  6.19e-01    1.563361e+00  -5.013840e-01
+   1 1.6163061153e-03   0.00e+00  6.19e+04    1.563361e+00  -5.013840e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.00161631
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0402033
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00161631
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+c               = 1.56336          +/- 0.1895       (12.12%)
+d               = -0.501384        +/- 0.07525      (15.01%)
+
+correlation matrix of the fit parameters:
+                c      d      
+c               1.000 
+d              -0.960  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:42:58 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.3591786975e-04   0.00e+00  1.20e+00    3.808332e+00   5.322118e-01
+   1 7.3591786975e-04  -8.52e-08  1.20e+00    3.808332e+00   5.322118e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : -8.52431e-13
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80833          +/- 0.3319       (8.715%)
+b               = 0.532212         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:42:58 2016
+
+
+FIT:    data read from 'Massa-Mola(TxK).dat'
+        format = z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = c*x**d
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   c             d            
+   0 1.6163061153e-03   0.00e+00  6.19e-01    1.563361e+00  -5.013840e-01
+   1 1.6163061153e-03   0.00e+00  6.19e+04    1.563361e+00  -5.013840e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.00161631
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0402033
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00161631
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+c               = 1.56336          +/- 0.1895       (12.12%)
+d               = -0.501384        +/- 0.07525      (15.01%)
+
+correlation matrix of the fit parameters:
+                c      d      
+c               1.000 
+d              -0.960  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:46:51 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.3591786975e-04   0.00e+00  1.20e+00    3.808332e+00   5.322118e-01
+   1 7.3591786975e-04  -7.26e-08  1.20e+00    3.808332e+00   5.322118e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : -7.26025e-13
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80833          +/- 0.3319       (8.715%)
+b               = 0.532212         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:46:51 2016
+
+
+FIT:    data read from 'Massa-Mola(TxK).dat'
+        format = z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = c*x**d
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   c             d            
+   0 1.6163061153e-03   0.00e+00  6.19e-01    1.563361e+00  -5.013840e-01
+   1 1.6163061153e-03   0.00e+00  6.19e+04    1.563361e+00  -5.013840e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.00161631
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0402033
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00161631
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+c               = 1.56336          +/- 0.1895       (12.12%)
+d               = -0.501384        +/- 0.07525      (15.01%)
+
+correlation matrix of the fit parameters:
+                c      d      
+c               1.000 
+d              -0.960  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:47:57 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.3591786975e-04   0.00e+00  1.20e+00    3.808332e+00   5.322118e-01
+   1 7.3591786975e-04  -6.33e-08  1.20e+00    3.808332e+00   5.322118e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : -6.3262e-13
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80833          +/- 0.3319       (8.715%)
+b               = 0.532212         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:47:57 2016
+
+
+FIT:    data read from 'Massa-Mola(TxK).dat'
+        format = z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = c*x**d
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   c             d            
+   0 1.6163061153e-03   0.00e+00  6.19e-01    1.563361e+00  -5.013840e-01
+   1 1.6163061153e-03   0.00e+00  6.19e+04    1.563361e+00  -5.013840e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.00161631
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0402033
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00161631
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+c               = 1.56336          +/- 0.1895       (12.12%)
+d               = -0.501384        +/- 0.07525      (15.01%)
+
+correlation matrix of the fit parameters:
+                c      d      
+c               1.000 
+d              -0.960  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:48:23 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.3591786975e-04   0.00e+00  1.20e+00    3.808332e+00   5.322118e-01
+   1 7.3591786975e-04  -5.53e-08  1.20e+00    3.808332e+00   5.322118e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : -5.53211e-13
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80833          +/- 0.3319       (8.715%)
+b               = 0.532212         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:48:23 2016
+
+
+FIT:    data read from 'Massa-Mola(TxK).dat'
+        format = z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = c*x**d
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   c             d            
+   0 1.6163061153e-03   0.00e+00  6.19e-01    1.563361e+00  -5.013840e-01
+   1 1.6163061153e-03   0.00e+00  6.19e+04    1.563361e+00  -5.013840e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.00161631
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0402033
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00161631
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+c               = 1.56336          +/- 0.1895       (12.12%)
+d               = -0.501384        +/- 0.07525      (15.01%)
+
+correlation matrix of the fit parameters:
+                c      d      
+c               1.000 
+d              -0.960  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:48:39 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.3591786975e-04   0.00e+00  1.20e+00    3.808332e+00   5.322118e-01
+   1 7.3591786975e-04  -4.85e-08  1.20e+00    3.808332e+00   5.322118e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : -4.84999e-13
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80833          +/- 0.3319       (8.715%)
+b               = 0.532212         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:48:39 2016
+
+
+FIT:    data read from 'Massa-Mola(TxK).dat'
+        format = z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = c*x**d
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   c             d            
+   0 1.6163061153e-03   0.00e+00  6.19e-01    1.563361e+00  -5.013840e-01
+   1 1.6163061153e-03   0.00e+00  6.19e+04    1.563361e+00  -5.013840e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.00161631
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0402033
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00161631
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+c               = 1.56336          +/- 0.1895       (12.12%)
+d               = -0.501384        +/- 0.07525      (15.01%)
+
+correlation matrix of the fit parameters:
+                c      d      
+c               1.000 
+d              -0.960  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:49:00 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.3591786975e-04   0.00e+00  1.20e+00    3.808332e+00   5.322118e-01
+   1 7.3591786975e-04  -4.27e-08  1.20e+00    3.808332e+00   5.322118e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : -4.2651e-13
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80833          +/- 0.3319       (8.715%)
+b               = 0.532212         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:49:00 2016
+
+
+FIT:    data read from 'Massa-Mola(TxK).dat'
+        format = z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = c*x**d
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   c             d            
+   0 1.6163061153e-03   0.00e+00  6.19e-01    1.563361e+00  -5.013840e-01
+   1 1.6163061153e-03   0.00e+00  6.19e+04    1.563361e+00  -5.013840e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.00161631
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0402033
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00161631
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+c               = 1.56336          +/- 0.1895       (12.12%)
+d               = -0.501384        +/- 0.07525      (15.01%)
+
+correlation matrix of the fit parameters:
+                c      d      
+c               1.000 
+d              -0.960  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:49:30 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.3591786975e-04   0.00e+00  1.20e+00    3.808332e+00   5.322118e-01
+   1 7.3591786975e-04  -3.38e-08  1.20e+00    3.808332e+00   5.322118e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : -3.38409e-13
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80833          +/- 0.3319       (8.715%)
+b               = 0.532212         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:49:30 2016
+
+
+FIT:    data read from 'Massa-Mola(TxK).dat'
+        format = z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = c*x**d
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   c             d            
+   0 1.6163061153e-03   0.00e+00  6.19e-01    1.563361e+00  -5.013840e-01
+   1 1.6163061153e-03   0.00e+00  6.19e+04    1.563361e+00  -5.013840e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.00161631
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0402033
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00161631
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+c               = 1.56336          +/- 0.1895       (12.12%)
+d               = -0.501384        +/- 0.07525      (15.01%)
+
+correlation matrix of the fit parameters:
+                c      d      
+c               1.000 
+d              -0.960  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:50:35 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.3591786975e-04   0.00e+00  1.20e+00    3.808332e+00   5.322118e-01
+   1 7.3591786975e-04  -3.00e-08  1.20e+00    3.808332e+00   5.322118e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : -3.00399e-13
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80833          +/- 0.3319       (8.715%)
+b               = 0.532212         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:50:35 2016
+
+
+FIT:    data read from 'Massa-Mola(TxK).dat'
+        format = z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = c*x**d
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   c             d            
+   0 1.6163061153e-03   0.00e+00  6.19e-01    1.563361e+00  -5.013840e-01
+   1 1.6163061153e-03   0.00e+00  6.19e+04    1.563361e+00  -5.013840e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.00161631
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0402033
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00161631
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+c               = 1.56336          +/- 0.1895       (12.12%)
+d               = -0.501384        +/- 0.07525      (15.01%)
+
+correlation matrix of the fit parameters:
+                c      d      
+c               1.000 
+d              -0.960  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:59:17 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.3591786975e-04   0.00e+00  1.20e+00    3.808332e+00   5.322118e-01
+   1 7.3591786975e-04  -2.52e-08  1.20e+00    3.808332e+00   5.322118e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : -2.52076e-13
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80833          +/- 0.3319       (8.715%)
+b               = 0.532212         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Mon Oct 24 18:59:17 2016
+
+
+FIT:    data read from 'Massa-Mola(TxK).dat'
+        format = z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = c*x**d
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   c             d            
+   0 1.6163061153e-03   0.00e+00  6.19e-01    1.563361e+00  -5.013840e-01
+   1 1.6163061153e-03   0.00e+00  6.19e+04    1.563361e+00  -5.013840e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.00161631
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0402033
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00161631
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+c               = 1.56336          +/- 0.1895       (12.12%)
+d               = -0.501384        +/- 0.07525      (15.01%)
+
+correlation matrix of the fit parameters:
+                c      d      
+c               1.000 
+d              -0.960  1.000 
+
+
+*******************************************************************************
+Fri Nov  4 12:41:40 2016
+
+
+FIT:    data read from 'Massa-Mola(TxK).dat'
+        format = z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.3293419400e+02   0.00e+00  1.21e+01    1.000000e+00   1.000000e+00
+   8 1.6163061155e-03  -1.38e-06  1.21e+00    1.563362e+00  -5.013848e-01
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00161631
+rel. change during last iteration : -1.37939e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0402033
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00161631
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.56336          +/- 0.1896       (12.12%)
+b               = -0.501385        +/- 0.07525      (15.01%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.960  1.000 
+
+
+*******************************************************************************
+Tue Nov 15 13:02:41 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.6003554629e+00   0.00e+00  1.62e-01    1.000000e+00   1.000000e+00
+  11 7.3591787174e-04  -1.53e-04  1.62e-06    3.808350e+00   5.322137e-01
+
+After 11 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : -1.52649e-09
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80835          +/- 0.3319       (8.715%)
+b               = 0.532214         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Tue Nov 15 13:02:42 2016
+
+
+FIT:    data read from 'Massa-Mola(TxK).dat'
+        format = z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = c*x**d
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   c             d            
+   0 1.3293419400e+02   0.00e+00  1.21e+01    1.000000e+00   1.000000e+00
+   8 1.6163061155e-03  -1.38e-06  1.21e+00    1.563362e+00  -5.013848e-01
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00161631
+rel. change during last iteration : -1.37939e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0402033
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00161631
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+c               = 1.56336          +/- 0.1896       (12.12%)
+d               = -0.501385        +/- 0.07525      (15.01%)
+
+correlation matrix of the fit parameters:
+                c      d      
+c               1.000 
+d              -0.960  1.000 
+
+
+*******************************************************************************
+Tue Nov 15 13:03:33 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        x range restricted to [0.00000 : 12.0000]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.3591787174e-04   0.00e+00  1.20e+00    3.808350e+00   5.322137e-01
+   1 7.3591787174e-04  -7.22e-10  1.20e+01    3.808350e+00   5.322137e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : -7.219e-15
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80835          +/- 0.3319       (8.715%)
+b               = 0.532214         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Tue Nov 15 13:03:33 2016
+
+
+FIT:    data read from 'Massa-Mola(TxK).dat'
+        format = z
+        x range restricted to [0.00000 : 12.0000]
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = c*x**d
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   c             d            
+   0 1.6163061155e-03   0.00e+00  6.19e-01    1.563362e+00  -5.013848e-01
+   1 1.6163061153e-03  -1.10e-05  6.19e-02    1.563361e+00  -5.013840e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.00161631
+rel. change during last iteration : -1.10022e-10
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0402033
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00161631
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+c               = 1.56336          +/- 0.1895       (12.12%)
+d               = -0.501384        +/- 0.07525      (15.01%)
+
+correlation matrix of the fit parameters:
+                c      d      
+c               1.000 
+d              -0.960  1.000 
+
+
+*******************************************************************************
+Tue Nov 15 13:03:52 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        x range restricted to [0.00000 : 12.0000]
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.3591787174e-04   0.00e+00  1.20e+00    3.808350e+00   5.322137e-01
+   1 7.3591787174e-04   0.00e+00  1.20e+03    3.808350e+00   5.322137e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80835          +/- 0.3319       (8.715%)
+b               = 0.532214         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Tue Nov 15 13:03:52 2016
+
+
+FIT:    data read from 'Massa-Mola(TxK).dat'
+        format = z
+        x range restricted to [0.00000 : 12.0000]
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = c*x**d
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   c             d            
+   0 1.6163061153e-03   0.00e+00  6.19e-01    1.563361e+00  -5.013840e-01
+   1 1.6163061153e-03  -6.17e-10  6.19e+01    1.563361e+00  -5.013840e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.00161631
+rel. change during last iteration : -6.17127e-15
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0402033
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00161631
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+c               = 1.56336          +/- 0.1895       (12.12%)
+d               = -0.501384        +/- 0.07525      (15.01%)
+
+correlation matrix of the fit parameters:
+                c      d      
+c               1.000 
+d              -0.960  1.000 
+
+
+*******************************************************************************
+Tue Nov 15 13:04:52 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.3591787174e-04   0.00e+00  1.20e+00    3.808350e+00   5.322137e-01
+   1 7.3591787174e-04   0.00e+00  1.20e+03    3.808350e+00   5.322137e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80835          +/- 0.3319       (8.715%)
+b               = 0.532214         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Tue Nov 15 13:04:52 2016
+
+
+FIT:    data read from 'Massa-Mola(TxK).dat'
+        format = z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = c*x**d
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   c             d            
+   0 1.6163061153e-03   0.00e+00  6.19e-01    1.563361e+00  -5.013840e-01
+   1 1.6163061153e-03   0.00e+00  6.19e+04    1.563361e+00  -5.013840e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.00161631
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0402033
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00161631
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+c               = 1.56336          +/- 0.1895       (12.12%)
+d               = -0.501384        +/- 0.07525      (15.01%)
+
+correlation matrix of the fit parameters:
+                c      d      
+c               1.000 
+d              -0.960  1.000 
+
+
+*******************************************************************************
+Tue Nov 15 16:00:55 2016
+
+
+FIT:    data read from 'Massa-Mola(TxM).dat'
+        format = z
+        #datapoints = 4
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 7.3591787174e-04   0.00e+00  1.20e+00    3.808350e+00   5.322137e-01
+   1 7.3591787174e-04   0.00e+00  1.20e+03    3.808350e+00   5.322137e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.000735918
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0191823
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000367959
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.80835          +/- 0.3319       (8.715%)
+b               = 0.532214         +/- 0.03604      (6.772%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b               0.994  1.000 
+
+
+*******************************************************************************
+Tue Nov 15 16:00:55 2016
+
+
+FIT:    data read from 'Massa-Mola(TxK).dat'
+        format = z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+	g(x) = c*x**d
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   c             d            
+   0 1.6163061153e-03   0.00e+00  6.19e-01    1.563361e+00  -5.013840e-01
+   1 1.6163061153e-03   0.00e+00  6.19e+04    1.563361e+00  -5.013840e-01
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.00161631
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0402033
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00161631
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+c               = 1.56336          +/- 0.1895       (12.12%)
+d               = -0.501384        +/- 0.07525      (15.01%)
+
+correlation matrix of the fit parameters:
+                c      d      
+c               1.000 
+d              -0.960  1.000 
+
+
+*******************************************************************************
+Tue Nov 15 23:57:32 2016
+
+
+FIT:    data read from 'Massa-Mola(TxK).dat'
+        format = z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.3293419400e+02   0.00e+00  1.21e+01    1.000000e+00   1.000000e+00
+   8 1.6163061155e-03  -1.38e-06  1.21e+00    1.563362e+00  -5.013848e-01
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00161631
+rel. change during last iteration : -1.37939e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0402033
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00161631
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.56336          +/- 0.1896       (12.12%)
+b               = -0.501385        +/- 0.07525      (15.01%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.960  1.000 
