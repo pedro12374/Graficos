@@ -16,4 +16,4 @@ set terminal postscript eps
 
 set output 'Massa_Mola3.eps'
 replot
-set term x11
+set term x11 #saida do arquivo
