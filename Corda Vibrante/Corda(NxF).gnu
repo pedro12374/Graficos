@@ -29,7 +29,7 @@ title_M3(e,f) = sprintf('h(x) = %.3f+%.3fx', e, f)
 title_M4(g,h) = sprintf('i(x) = %.3f+%.3fx', g, h)
 title_M5(i,j) = sprintf('j(x) = %.3f+%.3fx', i, j)
 
-plot 'Corda_M1(NxF).dat' ps 1 title 'Massa de 0,05008 Kg',M1(x) t title_M1(a,b) ls -1 lw 1.5,'Corda_M2(NxF).dat' ps 1 title 'Massa de 0,07456 Kg',M2(x) t title_M2(c,d) ls -1 lw 1.5, 'Corda_M3(NxF).dat' ps 1 title 'Massa de 0,09298 Kg',M3(x) t title_M3(e,f) ls -1 lw 1.5,'Corda_M4(NxF).dat' ps 1 title 'Massa de 0,11414 Kg',M4(x) t title_M4(g,h) ls -1 lw 1.5, 'Corda_M5(NxF).dat' ps 1 title 'Massa de 0,13373 Kg',M5(x) t title_M5(i,j) ls -1 lw 1.5
+plot 'Corda_M1(NxF).dat' ps 1 title 'Massa de 0,05008 Kg',M1(x) t title_M1(a,b) lw 1.5,'Corda_M2(NxF).dat' ps 1 title 'Massa de 0,07456 Kg',M2(x) t title_M2(c,d) lw 1.5, 'Corda_M3(NxF).dat' ps 1 title 'Massa de 0,09298 Kg',M3(x) t title_M3(e,f) lw 1.5,'Corda_M4(NxF).dat' ps 1 title 'Massa de 0,11414 Kg',M4(x) t title_M4(g,h) lw 1.5, 'Corda_M5(NxF).dat' ps 1 title 'Massa de 0,13373 Kg',M5(x) t title_M5(i,j) lw 1.5
 
 
 

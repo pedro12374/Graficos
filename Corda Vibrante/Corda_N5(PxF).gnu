@@ -20,7 +20,7 @@ fit f(x) 'Corda_N5(PxF).dat' via a,b
 
 title_f(a,b) = sprintf('f(x) = %.3f+%.3fx', a, b)
 
-plot 'Corda_N5(PxF).dat' ps 1 title 'Massa de 0,05008 Kg',f(x) t title_f(a,b) ls -1 lw 1.5
+plot 'Corda_N5(PxF).dat' ps 1 title '5 Ventres',f(x) t title_f(a,b) ls -1 lw 1.5
 
 
 set terminal postscript eps
